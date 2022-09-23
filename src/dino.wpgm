@@ -1,0 +1,10 @@
+import wollok.game.*
+import dino.* 
+
+program dinosaurio {
+
+	juego.configurar()
+	juego.iniciar()
+	game.start()
+
+}
